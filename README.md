@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Gurwan/Addicted-Stalked/blob/main/logo.png" width="250" style="max-width:100%;">
+  <img src="https://github.com/Gurwan/Blinderboxd/blob/main/icon.png" width="250" style="max-width:100%;">
 </p>
 <p align="center">
   <strong>Blinderboxd</strong>
