@@ -8,7 +8,9 @@
 
 <hr> </hr>
 
-<p> Web extension to hide other users' ratings on the Letterboxd platform in order to view a movie without bias </p>
+<p> Web extension to hide other users' ratings on the Letterboxd platform in order to view a movie without bias. </p>
+<p>You can download now : <a href="https://chromewebstore.google.com/detail/blinderboxd/bcgokfhbhmpcfaonlcofkpplhbnjgdjc?authuser=0&hl=fr&pli=1">Blinderboxd for Chrome</a></p>
+
 
 <hr></hr>
 
